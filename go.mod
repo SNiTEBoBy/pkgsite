@@ -24,7 +24,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.6.2
 	github.com/golang/protobuf v1.4.2
 	github.com/gomodule/redigo v2.0.0+incompatible // indirect
-	github.com/google/go-cmp v0.5.2
+	github.com/google/go-cmp v0.6.0
 	github.com/google/go-replayers/httpreplay v0.1.0
 	github.com/google/licensecheck v0.3.1
 	github.com/google/safehtml v0.0.2
@@ -34,15 +34,14 @@ require (
 	github.com/lib/pq v1.3.0
 	github.com/microcosm-cc/bluemonday v1.0.2
 	github.com/russross/blackfriday/v2 v2.0.1
-	github.com/yuin/goldmark v1.3.5
+	github.com/yuin/goldmark v1.4.13
 	github.com/yuin/goldmark-emoji v1.0.1
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da // indirect
 	go.opencensus.io v0.22.4
-	golang.org/x/mod v0.3.1-0.20200828183125-ce943fd02449
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
-	golang.org/x/text v0.3.4 // indirect
-	golang.org/x/tools v0.0.0-20200915173823-2db8f0ff891c
+	golang.org/x/mod v0.17.0
+	golang.org/x/net v0.36.0
+	golang.org/x/sync v0.11.0
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d
 	google.golang.org/api v0.32.0
 	google.golang.org/genproto v0.0.0-20200923140941-5646d36feee1
 	google.golang.org/grpc v1.32.0
